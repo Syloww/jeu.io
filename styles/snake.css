@@ -26,3 +26,16 @@ body {
     border-radius: 10px;
     border: 3px solid #ffffff;
 }
+
+#particles-js {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -8;
+    background-size: 20%;
+    background-position: 50% 50%;
+}
